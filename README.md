@@ -1,7 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadpanda-c&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadpanda-c&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadpanda-c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-ui
 
 <!--
 **deadpanda-c/deadpanda-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
