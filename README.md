@@ -12,7 +12,7 @@
 </pre>
 
 
-https://img.shields.io/static/v1?label=&message="it is me"&color=blue
+<img src='https://img.shields.io/static/v1?label=&message="C"&color=blue'>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadpanda-c&show_icons=true&theme=dracula)
