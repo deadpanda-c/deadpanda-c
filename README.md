@@ -11,8 +11,7 @@
 |_____/_/   \_\____|___|_____|_| \_\
 </pre>
 
-
-<img src='https://img.shields.io/static/v1?label=&message="C"&color=blue'>
+<img src="https://img.shields.io/coveralls/github/badges/shields">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadpanda-c&show_icons=true&theme=dracula)
