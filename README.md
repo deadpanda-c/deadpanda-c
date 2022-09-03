@@ -1,4 +1,5 @@
-<pre style="width:fit-content">
+
+    <pre style="width:fit-content">
   ____ _     _____ __  __ _____ _   _ _____ 
  / ___| |   | ____|  \/  | ____| \ | |_   _|
 | |   | |   |  _| | |\/| |  _| |  \| | | |  
@@ -8,8 +9,7 @@
 | |      / \  / ___|_ _| ____|  _ \ 
 | |     / _ \| |  _ | ||  _| | |_) |
 | |___ / ___ \ |_| || || |___|  _ < 
-|_____/_/   \_\____|___|_____|_| \_\
-</pre>
+|_____/_/   \_\____|___|_____|_| \_</pre>
 
 <img src="https://img.shields.io/coveralls/github/badges/shields">
 
@@ -20,3 +20,6 @@
 - 🌱 I’m currently learning C and C++
 - 📫 How to reach me: clement.lagier@epitech.eu
 - ⚡ Fun fact: I like chocolate and pandas
+
+
+Last modification: 03-09-2022 17:26
