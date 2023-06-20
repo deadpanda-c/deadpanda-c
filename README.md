@@ -1,6 +1,6 @@
 
 <img src="https://img.shields.io/coveralls/github/badges/shields">
-
+<a href="https://app.daily.dev/deadpanda"><img src="https://api.daily.dev/devcards/971f1fc7183344dcbc75537a0a3c4f67.png?r=7q1" width="400" alt="Clément's Dev Card"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadpanda-c&show_icons=true&theme=dracula)
 
